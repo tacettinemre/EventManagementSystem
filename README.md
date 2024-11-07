@@ -185,4 +185,5 @@ At the initial description of the challenge that I recevied, there were total of
     No events found within the specified date range.
     ```
 - exit: Exits from the application.
-    
+## Conclusion
+It has been really fun working on this project. If you have any questions, please feel free to ask me! Thanks for your time.

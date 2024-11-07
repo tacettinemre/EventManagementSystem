@@ -1,0 +1,14 @@
+D:\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.exe
+D:\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.deps.json
+D:\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.runtimeconfig.json
+D:\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.dll
+D:\EventManagementSystem\bin\Debug\net8.0\EventManagementSystem.pdb
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.AssemblyInfoInputs.cache
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.AssemblyInfo.cs
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.csproj.CoreCompileInputs.cache
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.dll
+D:\EventManagementSystem\obj\Debug\net8.0\refint\EventManagementSystem.dll
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.pdb
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.genruntimeconfig.cache
+D:\EventManagementSystem\obj\Debug\net8.0\ref\EventManagementSystem.dll

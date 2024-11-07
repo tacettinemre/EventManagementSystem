@@ -12,3 +12,4 @@ D:\EventManagementSystem\obj\Debug\net8.0\refint\EventManagementSystem.dll
 D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.pdb
 D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.genruntimeconfig.cache
 D:\EventManagementSystem\obj\Debug\net8.0\ref\EventManagementSystem.dll
+D:\EventManagementSystem\obj\Debug\net8.0\EventManagementSystem.sourcelink.json

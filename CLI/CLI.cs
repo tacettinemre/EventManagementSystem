@@ -85,8 +85,11 @@ namespace EventManagement
             Console.WriteLine("\n");
             Console.WriteLine("*************************************************************************************************************************************************");
             Console.WriteLine("Available Commands:\n");
+
+            Console.WriteLine("1. help");
+            Console.WriteLine("   - Description: Displays this information about the available commands.\n");
             
-            Console.WriteLine("1. create");
+            Console.WriteLine("2. create");
             Console.WriteLine("   - Description: Initiates the creation of a new event. This command doesn’t require any arguments.");
             Console.WriteLine("     After entering, you'll be prompted to provide details about the event you wish to create.\n");
             
